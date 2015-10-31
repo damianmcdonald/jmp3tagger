@@ -3,6 +3,8 @@
 
 image::src/main/resources/img/logo.png[jmp3tagger]
 
+image:https://travis-ci.org/damianmcdonald/jmp3tagger.svg?branch=master["Build Status", link="https://travis-ci.org/damianmcdonald/jmp3tagger"] image:https://go-shields.herokuapp.com/license-apache2-blue.png["License Apache2", link="http://www.apache.org/licenses/LICENSE-2.0"]
+
 `jmp3tagger` is a http://docs.spring.io/spring-shell/docs/current/reference/html/shell.html[Spring Shell] command line application that can read and write the ID3 tags from mp3 files.
 
 The application is not much more than a wrapper over the http://www.jthink.net/jaudiotagger/[jaudiotagger] library.
